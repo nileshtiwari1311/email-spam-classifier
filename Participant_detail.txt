@@ -1,0 +1,12 @@
+Name - NILESH TIWARI
+Roll Number - CS22M059
+
+File 'spam-ham-datset.csv' contains the dataset used for fitting the model.
+
+File 'Q1_functions.py' contains the functions used in the algorithms in problems Q1_NB.py, Q1_SVM.py and Q1_predict.py.
+
+Q1_NB.py contains the model fitting for Naive Bayes algorithm and Q1_SVM.py contains the model fitting for SVM algorithm.
+
+Q1_predict.py predicts the output label for each txt file in 'test' folder.
+
+The code files generate print outputs on the terminal and saves the plots for confusion matrices obtained as png files with appropriate names like 'Fig_Q1_NB_train_cm.py' for confusion matrix obtained in Naive Bayes algorithm for train dataset.
